@@ -13,5 +13,4 @@ WIN_COMBINATIONS = [
   [2,5,8]  # Right columns
   [0,4,8]  # Down diagonals
   [2,4,6]  # Up diagonals
-
 ]
